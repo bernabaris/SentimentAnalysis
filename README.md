@@ -36,13 +36,7 @@ This project performs sentiment analysis on a dataset of Turkish product reviews
 
 7. **Results**:
    - The models' accuracy scores are displayed, with SVM achieving the highest accuracy.
-   - 
+     
 ## Contributors
 This project was developed in collaboration with my classmates Şevval. 🌼 
 
-## Dependencies
-
-Install required packages with:
-
-```bash
-pip install pandas numpy matplotlib wordcloud nltk scikit-learn xgboost
