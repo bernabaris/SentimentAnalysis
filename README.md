@@ -38,5 +38,5 @@ This project performs sentiment analysis on a dataset of Turkish product reviews
    - The models' accuracy scores are displayed, with SVM achieving the highest accuracy.
      
 ## Contributors
-This project was developed in collaboration with my classmates Şevval. 🌼 
+This project was developed in collaboration with my classmate Şevval. 🌼 
 
